@@ -22,13 +22,13 @@
    دانلود و نصب از سایت رسمی:  
    👉 [https://ollama.com/download](https://ollama.com/download)
 
-   ![دانلود Ollama](Connect_AI_Ollama/Image/تصویر%201.png)
+   ![دانلود Ollama](Connect_AI_Ollama/Image/1.png)
 
 2. **دانلود مدل Llama 3.1**  
    به صفحه مدل بروید:  
    👉 [https://ollama.com/library/llama3.1](https://ollama.com/library/llama3.1)
 
-   ![صفحه مدل Llama 3.1](Connect_AI_Ollama/Image/تصویر%202.png)
+   ![صفحه مدل Llama 3.1](Connect_AI_Ollama/Image/2.png)
 
 3. **اجرای مدل در ترمینال (CMD یا PowerShell)**
 
@@ -38,7 +38,7 @@
 
    این دستور مدل را دانلود و اجرا می‌کند (در اولین اجرا ممکن است چند دقیقه طول بکشد).
 
-   ![اجرای مدل در CMD](Connect_AI_Ollama/Image/تصویر%203.png)
+   ![اجرای مدل در CMD](Connect_AI_Ollama/Image/3.png)
 
 4. **نصب پکیج NuGet (اختیاری اما توصیه‌شده)**  
    کلاس اصلی ارتباط با Ollama در پکیج شخصی من قرار دارد:  
