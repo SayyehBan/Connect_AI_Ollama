@@ -33,10 +33,11 @@
             // 
             // listBox1
             // 
+            listBox1.Dock = DockStyle.Fill;
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(-2, 54);
+            listBox1.Location = new Point(0, 0);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(487, 319);
+            listBox1.Size = new Size(800, 450);
             listBox1.TabIndex = 0;
             // 
             // Form1
