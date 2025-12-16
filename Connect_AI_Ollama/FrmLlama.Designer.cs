@@ -1,6 +1,6 @@
 ﻿namespace Connect_AI_Ollama
 {
-    partial class Form1
+    partial class FrmLlama
     {
         /// <summary>
         ///  Required designer variable.
@@ -40,13 +40,14 @@
             listBox1.Size = new Size(800, 450);
             listBox1.TabIndex = 0;
             // 
-            // Form1
+            // FrmLlama
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(listBox1);
-            Name = "Form1";
+            Name = "FrmLlama";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             ResumeLayout(false);

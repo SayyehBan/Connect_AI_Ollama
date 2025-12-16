@@ -1,8 +1,8 @@
-﻿using SayehBanTools.AI.Ollama;
+﻿using SayehBanTools.AI.Ollama.llama;
 
 namespace Connect_AI_Ollama
 {
-    public partial class Form1 : Form
+    public partial class FrmLlama : Form
     {
 
         // لیست جملات انگلیسی که می‌خوای ترجمه بشن
@@ -20,7 +20,7 @@ namespace Connect_AI_Ollama
             "Have a wonderful day!"
         };
         private LocalAiTranslator? _translator;
-        public Form1()
+        public FrmLlama()
         {
             InitializeComponent();
         }

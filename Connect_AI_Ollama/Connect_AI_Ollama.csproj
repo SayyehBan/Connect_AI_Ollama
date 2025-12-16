@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SayehBanTools" Version="2.0.2" />
+    <PackageReference Include="SayehBanTools" Version="2.0.4" />
   </ItemGroup>
 
 </Project>
